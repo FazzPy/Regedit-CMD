@@ -1,4 +1,4 @@
-#Windows Regedit Sistem Hızlandırma
+# Windows Regedit Sistem Hızlandırma
 
 1
 
@@ -82,6 +82,3 @@ Bu kodu  yazın
 Yavaş yavaş CPU'nun rahatladığını göreceksiniz.
 
 Not : *1 Olan değerler Decimal veya Hexdecimal farketmez.*
-
-
-**BEYLER KAPORTACI MUHARREM ABİYE ANLATIR GİBİ ANLATTIM GG WP**
