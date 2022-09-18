@@ -40,3 +40,18 @@ QWORD, 64 bit’lik bir decimal veya hexadecimal değerdir.
 
 *   Değer (Value) Adı=Değer Tipi:Değer Verisi
 
+<h2> Menü </h3>
+
+| Notes  |
+| ------------- |
+| [Server Systems](https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/ServerSystems.md) |
+| [Network](https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/network.md) |
+| [Windows](https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/windows.md) |
+| [DNS](https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/DNS.md) |
+| [CMD](https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/CMD.md) |
+| [Regedit-Anonim](https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/Anonim-Settings.md) |
+| [Regedit-Performance](https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/Performance-Settings.md) |
+| [Regedit-Clean](https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/Registry-Clear.md) |
+| [Regedit-Startup](https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/Startup-Program.md) |
+| [Tor-Hosting](https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/TorHosting.md) |
+| [Usb-Ignore](https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/Usb-Ignore.md) |
