@@ -3,13 +3,13 @@
 <h3>Sürüm Farklılıkları</h3>
 
 
-<img src="https://github.com/FazzPy/System-Network/blob/main/documents/img/version1.PNG">
+<img src="https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/img/version1.PNG">
 
-<img src="https://github.com/FazzPy/System-Network/blob/main/documents/img/version2.PNG">
+<img src="https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/img/version2.PNG">
 
-<img src="https://github.com/FazzPy/System-Network/blob/main/documents/img/version3.PNG">
+<img src="https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/img/version3.PNG">
 
-<img src="https://github.com/FazzPy/System-Network/blob/main/documents/img/version4.PNG">
+<img src="https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/img/version4.PNG">
 
 <h3>Not :</h3>
 
