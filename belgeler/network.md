@@ -292,11 +292,11 @@ bit’lerin ne şekilde dizileceği, konnektörlerdeki kaç pin ile
 çalışılacağı, adaptörün ne zaman veri gönderip alacağı,
 teslimatın başarı durumu gibi detaylar tanımlanır, pakete yazılır.
 
-<img src="https://github.com/FazzPy/System-Network/blob/main/documents/img/osi.PNG">
+<img src="https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/img/osi.PNG">
 
 <h3>TCP/IP (Transmission Control Protocol / Internet Protocol) Modeli</h3>
 
-<img src="https://github.com/FazzPy/System-Network/blob/main/documents/img/tcpip.PNG">
+<img src="https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/img/tcpip.PNG">
 
 TCP (Transmission Control Protocol)
 - Bağlantı temelli, güvenilir bir iletim protokolüdür.
@@ -316,7 +316,7 @@ UDP (User Datagram Protocol)
 - Her application katmanı servisi, belirli bir port’tan sunulur.
 - Bir bilgisayarda 65536 adet port vardır. 1024 tanesi iyi bilenendir. (Well-Known)
 
-<img src="https://github.com/FazzPy/System-Network/blob/main/documents/img/port.PNG">
+<img src="https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/img/port.PNG">
 
 **TCP Bağlantı Başarım Araçları**
 
@@ -366,7 +366,7 @@ Fazz isminden ikilik (binary) düzende anladığı şudur;
 3) Hexadecimal (Onaltılık): 0,1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F olmak üzere16 karakterden oluşur.
 Örn; 68:7F:74:12:34:56
 
-<img src="https://github.com/FazzPy/System-Network/blob/main/documents/img/say%C4%B1sistemi.png">
+<img src="https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/img/say%C4%B1sistemi.png">
 
 
 - IP adresleri, cihazların network’teki yerlerini belirtir. Hangi ağda olduğunu ve ağdaki kimliğini belirtir.
@@ -398,7 +398,7 @@ Binary (ikilik)’de 1’lik bitlerin ard arda diziliminden oluşur. Araya 0 gir
 Aynı ağda olan cihazların Host ID’leri farklı olmak zorundadır.
 0 değeri alamaz. Host ID’leri minimum 1; maksimum 254 olabilir.
 
-<img src="https://github.com/FazzPy/System-Network/blob/main/documents/img/networkhostid.png">
+<img src="https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/img/networkhostid.png">
 
 <h3> IP Adres Sınıfları </h3>
 
@@ -406,7 +406,7 @@ Aynı ağda olan cihazların Host ID’leri farklı olmak zorundadır.
 - Subnet Mask’ı belirleyen de IP adresi sınıflarıdır.
 - Her IP’nin Subnet Mask’ı ve sınıfı (class) vardır.
 
-<img src="https://github.com/FazzPy/System-Network/blob/main/documents/img/subnetmask.PNG">
+<img src="https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/img/subnetmask.PNG">
 
 - Bir ağda 3 tür haberleşme vardır.
 
@@ -475,7 +475,7 @@ mail.google.com bir FQDN’dir.
 DNS sunucunun yetkili olduğu bölge, alandır.
 Bir DNS sunucusu birden fazla bölgeden sorumlu olabilir.
 
-<img src="https://github.com/FazzPy/System-Network/blob/main/documents/img/dnshyerarchy.PNG">
+<img src="https://github.com/FazzPy/Regedit-CMD/blob/main/belgeler/img/dnshyerarchy.PNG">
 
 - Bilgisayarlar birbirileri ile sadece IP’ler ile haberleşirler.
 - www.fazztech.net veya \\SERVER01 gibi adresler bilgisayarlar için bir şey ifade etmez.
