@@ -69,3 +69,13 @@ Not: Kali'yi Tor ağına bağlamalıyız Örnek: Torghost veya Anonsurf kullanab
 4) Arkada tor servisimiz çalıştığı sürece sitemiz tor'da yayınlanmış olacaktır.
 
 **tail -100 /var/log/apache2/access.log** ile ziyaretçi ip adreslerini ve logları görebilirsiniz.
+
+<h3> Son olarak Exif data yok etme </h3>
+
+EXIF Nedir?
+
+Wev sitesine koyduğumuz fotoğrafların bir metadatası vardır, yani exif datalar bunlar gps lokasyonu, fotoğrafın çekildiği tarih, saat, makinanın seri numarası gibi bilgileri gösterir. Sonra Tor Browser'da anonim olacakken fotoğraftan gitmeyin :) 
+
+**apt install libinage-exiftool-perl -y** komutu ile indirin.
+
+**exiftool -all= /var/www/html/img/** komutu ile img dizinindeki fotoğrafların exif datasını temizler.
